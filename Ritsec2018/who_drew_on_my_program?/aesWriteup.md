@@ -19,7 +19,7 @@ By looking at the AES CBC decryption routine we see that the IV is used in the b
 
 The basic premise of the attack is to get the first block of the ciphertext by XORing the decrypted second block of the ciphertext with the second block of the plaintext. As we don't have the full key and only parts of the first ciphertext we have to bruteforce the last two bytes of the key until we find a match with the known ciphertext bytes, either through encryption or decryption.  
 
-When the full key is found. We can encrypt the first block of the plaintext to get the full corresponding first block of the ciphertext and get the original IV by XORing the first block of the plaintext with the found first block of the ciphertext. 
+When the full key is found we also have the first block of the ciphertext. To get the original IV, we simply XOR the first block of the plaintext first block of the ciphertext. 
 
 
 The code for the python script which solved the challenge is found below.
