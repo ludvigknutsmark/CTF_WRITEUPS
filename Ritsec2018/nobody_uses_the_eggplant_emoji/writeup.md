@@ -1,4 +1,4 @@
-# Who drew on my program? 
+# Nobody uses the eggplant emoji
 
 ![alt text](images/description.png)
 
@@ -74,5 +74,19 @@ print(decoded)
 print ("")
 print (decoded2)
 
+#HUEMOREILHCQEMOREASTEDOSILMEOUEILTEUWAPEUHSNIEMOREBRNIEACNDTSEILTNTEILSTTEVRTNIHOCNKEDLAIEHNEMORECABTJEDLAIEHNEMORSEVRTNIJEDLAIEHNEILTEAHSENXTTGEZTWOYHIMEOUEACERCWAGTCENDAWWODKEMORSEUWAPEHN?EAUSHYACFOSFTRSOXTACFNDAWWODFDODFILTSTNFAFGHUUTSTCYTE
 
+#SC UAH ODSLX UAH TNE RANODU AC ODE CMTY CSNIO UAH PHIO TLIREN ODEIE ODNEE BHEIOSALIV RDTO SI UAH LTPEK RDTO SI UAHN BHEIOK RDTO SI ODE TSN IJEEF QEMAGSOU AC TL HLMTFEL IRTMMARV UAHN CMTY SI? TCNSGTLWANWEHNAJETLWIRTMMARWRARWODENEIWTWFSCCENELGE 
 ```
+
+So, the output was just gibberish. We knew that our code was wrong so we just put the second string in quip quip to see if we got anything.
+
+![alt text](images/quip_quip.png)
+
+We saw that the quote resembled a parts from a famous Monthy Python quote. 
+
+*Your flag is: african or european swallow wow theres a difference*
+
+We tried: **RITSEC{african_or_european_swallow_wow_theres_a_difference}** which proved to be correct.
+
+So an ugly solution to the problem. But nonetheless a flag and 200 points.
