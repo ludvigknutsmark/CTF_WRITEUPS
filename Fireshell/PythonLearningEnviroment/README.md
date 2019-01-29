@@ -21,6 +21,7 @@ we can't print integers, [], import and getitem as it's getting removed..
 
 ### Fools!
 To print integers we came up with the strategy to add several boolean values together. Since "a" == "a" equals 1 we can add this value to an arbitrary integer. Ugly, but it works ¯\\_(ツ)_/¯.
+
 The [] was easy to bypass since we can use the getitem function.
 
 **BUT WASN'T GETITEM REMOVED?!?!?**
